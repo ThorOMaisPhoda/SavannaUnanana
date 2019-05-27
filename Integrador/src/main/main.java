@@ -1,5 +1,6 @@
 package main;
 
-public class main {
+public class main { 
+  salve;
 
 }
